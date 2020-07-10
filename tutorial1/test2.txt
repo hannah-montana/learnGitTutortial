@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 cherry 1
 cherry 2
+=======
+cherry 1
+>>>>>>> 21e540dedf3293009f6654c8823be254f58183fe

@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 master cherry 1
+=======
+master cherry 1
+master cherry 2
+>>>>>>> 21e540dedf3293009f6654c8823be254f58183fe
